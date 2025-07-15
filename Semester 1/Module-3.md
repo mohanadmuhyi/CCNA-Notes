@@ -247,18 +247,7 @@ From PC → Web Server (3 hops)
 
 ---
 
-### ✅ Module Summary
 
-- Protocols define **how** devices communicate.
-- Protocol suites (like TCP/IP) ensure compatibility.
-- OSI and TCP/IP models help organize how data moves.
-- Encapsulation wraps data with headers at each layer.
-- IP = global identity, MAC = local identity (changes hop to hop).
-- Wired uses CSMA/CD; wireless uses CSMA/CA.
-- DNS translates names → IPs.
-- You now understand how devices talk, how they’re identified, and how data travels through the network.
-
----
 
 ### 💡 Final Word
 
