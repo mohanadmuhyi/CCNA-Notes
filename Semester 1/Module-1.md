@@ -251,6 +251,26 @@ How data travels between devices:
 
 ---
 
+## 📝 Additional Notes for NetAcad Questions
+
+### ✅ Terms & Clarifications:
+
+- **NIC (Network Interface Card):**  
+  A hardware component inside an end device that provides the physical connection to the network. It's what connects a device to a switch, router, or access point through a port.
+
+- **Interface:**  
+  A specialized **port** on a networking device (like a router or switch) that connects it to other networks. Interfaces are where cables are plugged in and configured (e.g., GigabitEthernet0/0).
+
+- **Video Communications:**  
+  Tools like Zoom, WebEx, or Teams that allow face-to-face communication over the internet, often with screen sharing and chat. Essential for remote collaboration.
+
+- **Denial of Service (DoS):**  
+  An attack that floods a network or system with traffic to slow it down or crash it, making it unavailable to users.
+
+- **Zero-day or Zero-hour Attack:**  
+  A cyberattack that exploits a newly discovered vulnerability **before** developers can release a patch. These are dangerous because there’s no defense in place yet.
+
+---
 
 ### 🔚 Final Word
 
