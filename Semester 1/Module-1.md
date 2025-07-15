@@ -27,12 +27,44 @@ Understand how modern technologies and networking affect our daily lives, explor
 - **Servers** provide data (email, web, file servers).
 - **Clients** request data from servers.
 
-### 🔸 Peer-to-Peer Networks (P2P)
+---
+
+### 🔸 Network Models
+
+#### 🟢 Client-Server Model
+- **Dedicated servers** provide services to multiple client devices.
+- Clients initiate communication by requesting services.
+- Common model used in **business, data centers, web services**.
+
+**Advantages:**
+- Centralized control and management
+- More secure and scalable
+- Suitable for large or growing networks
+
+**Disadvantages:**
+- Higher cost (hardware, maintenance, admins)
+- Requires skilled management
+
+🔐 *Security Note:* This model makes it easier to apply **access control**, **monitoring**, and **updates** centrally.
+
+---
+
+#### 🔵 Peer-to-Peer Model
 - Devices act as both **clients and servers**.
-- Simple and low-cost, but:
-  - ❌ No central control
-  - ❌ Not scalable or secure
-  - ✅ Good for small, temporary tasks (e.g. file sharing)
+- Simple and low-cost model, used in small networks (like home setups).
+
+**Advantages:**
+- Easy to set up
+- Less expensive
+
+**Disadvantages:**
+- No central management
+- Limited security and scalability
+- Slower performance with more devices
+
+💡 *Insight:* P2P is common in **torrenting apps** or temporary file sharing setups.
+
+---
 
 ### 🔸 Intermediary Devices
 - Connect and manage traffic:
