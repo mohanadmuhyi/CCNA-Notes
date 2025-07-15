@@ -97,8 +97,9 @@ How data travels between devices:
 - **Port / Interface:** physical connection point (used interchangeably).
 
 ### Types of Topologies
-- **Physical Topology:** Actual layout (devices and cables).
-- **Logical Topology:** Path data takes (IP addresses, flow logic).
+- **Physical Topology:** Actual layout (devices and cables) and where exactly are they (room, rack, shelf).
+- **Logical Topology:** Path data takes (IP addresses, flow logic). ex: on packet tracer.
+- Both help in troubleshooting.
 
 ---
 
