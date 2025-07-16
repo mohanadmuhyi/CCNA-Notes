@@ -247,7 +247,45 @@ From PC → Web Server (3 hops)
 
 ---
 
+## 📝 Additional Notes for NetAcad Questions
 
+- **Formatting vs Encoding vs Encapsulation:**  
+  - **Formatting** refers to arranging the data structure in a recognizable format (e.g., headers/fields).
+  - **Encoding** converts data into signals (electrical/light/radio).
+  - **Encapsulation** is adding headers/trailers to data.
+
+- **Sequencing (clarified):**  
+  Sequencing assigns numbers to data segments so they can be reassembled in the correct order by the receiver. TCP handles this.
+
+- **Service Discovery Protocols:**
+  - **DNS (Domain Name System):** Resolves hostnames to IP addresses.
+  - **DHCP (Dynamic Host Configuration Protocol):** Automatically assigns IP addresses to devices in a network.
+
+- **ICMPv4 / ICMPv6:**  
+  Internet Control Message Protocol (v4/v6) is used for sending **error messages** and operational info, e.g., unreachable destination or TTL expired. It's not used for transferring user data.
+
+- **Messaging (Internet Layer Service):**  
+  Refers to how control messages are sent across the network — often handled by **ICMP**.
+
+- **Segmentation:**  
+  The process of breaking a large stream of data into smaller segments before transmission, handled by TCP or UDP.
+
+- **Subnet Mask:**  
+  A 32-bit number that determines which portion of the IP address identifies the network and which part identifies the host.
+
+- **Order of MAC Addresses in a Frame:**  
+  Frames are structured like this:
+  
+      [Destination MAC] [Source MAC] [Payload] [FCS]
+
+- **IP Address Lengths:**
+  - IPv4 = 32 bits  
+  - IPv6 = 128 bits
+
+- **Data Link Address Length & Format:**  
+  - MAC addresses are **physical**, 48-bit (12 hexadecimal digit) identifiers burned into NICs.
+ 
+---
 
 ### 💡 Final Word
 
