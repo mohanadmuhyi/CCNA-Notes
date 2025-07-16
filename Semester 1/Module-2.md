@@ -268,6 +268,37 @@ Switch# ping 192.168.1.100
 - Failure? → Check cabling, IPs, shutdown state
 
 ---
+## 📝 Additional Notes for NetAcad Questions
+
+- **Auxiliary (AUX) Access Method**  
+  AUX is an out-of-band access method that allows CLI access to a router over a telephone line (modem connection). It's rarely used today but may appear in NetAcad exams.
+
+- **In-band vs Out-of-band**  
+  - *In-band*: Requires the network to be up (e.g., Telnet/SSH)  
+  - *Out-of-band*: Does not require network connectivity (e.g., Console, AUX)
+
+- **CTRL+Z vs end vs exit**  
+  - `CTRL+Z` and `end` both return to **privileged EXEC mode** from any subconfiguration mode  
+  - `exit` only goes **one level back** in the config hierarchy
+
+- **User EXEC Mode Prompt**  
+  - Displayed as `Switch>`  
+  - Limited access — mostly view-only commands  
+  - First mode entered after login  
+
+- **Command Accuracy**  
+  Be careful with spelling and spacing on IOS commands — for example:
+  - ✅ `hostname Sw-Floor-2` (correct)
+  - ❌ `host name Sw-Floor-2` (invalid syntax)
+
+- **SVI (Switch Virtual Interface)**  
+  A virtual interface used to assign an IP address to the switch for **remote management**. It has no physical port and is usually VLAN 1 by default.
+
+- **IPv4 Format Terminology**  
+  - Official name is **dotted-decimal format**
+  - Consists of **four decimal numbers** (0–255) separated by periods (e.g., `192.168.1.1`)
+
+---
 
 
 ## 🧠 Quick Tips
@@ -278,3 +309,14 @@ Switch# ping 192.168.1.100
 - ⚠️ Forgot a password? You’ll need to recover via console
 
 ---
+### 💡 Final Word
+
+This module is your first real-world step into becoming a network engineer.
+
+Learning how to access, configure, secure, and verify a Cisco device is **foundational** — like learning to read and write in the language of networking. Every router, every switch, every live network will demand this skill.
+
+Mastering CLI navigation, password security, IP setup, and configuration management will save you **hours of troubleshooting** in the field — and it’s what separates someone who just connects cables from someone who **engineers** networks.
+
+Be precise. Practice typing. Don’t just memorize — understand what each line does.
+
+This is where real networking begins.
