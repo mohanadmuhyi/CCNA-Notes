@@ -181,6 +181,61 @@ Fiber **does support full duplex**. It uses separate fibers or wavelengths for s
 
 ---
 
+
+## 📝 Additional Notes for NetAcad Questions
+
+- **The Physical Layer handles both wired and wireless**  
+  Despite the misconception, the physical layer is not just for cables — it includes wireless transmission like Wi-Fi and Bluetooth.
+
+- **Bit Transmission is Sequential, Not Simultaneous**  
+  Bits are sent **one after another** across the medium, not all at once. Parallel transmission does exist in specialized systems but not in Ethernet or wireless LANs.
+
+- **PDU at the Physical Layer**  
+  The **frame** (from the data link layer) is passed to the physical layer, which then converts it into signals.
+
+- **Media Signal Types Summary**  
+  | Media       | Signal Type       |
+  |-------------|-------------------|
+  | **Copper**     | Electrical pulses  |
+  | **Fiber-optic**| Light signals      |
+  | **Wireless**   | Microwave/radio    |
+
+- **Bandwidth vs Throughput vs Goodput**
+  - **Bandwidth**: Theoretical maximum data rate
+  - **Throughput**: Actual rate achieved over time
+  - **Goodput**: Throughput minus overhead (headers, retransmissions)
+
+- **Cable Properties**
+  - **Coaxial**:
+    - Used in old networks, antennas, and cable systems
+    - Connectors: BNC, N-type, F-type
+    - May be bundled with fiber in hybrid solutions
+  - **STP** (Shielded Twisted Pair): 
+    - Counters EMI/RFI with shielding
+  - **UTP** (Unshielded Twisted Pair): 
+    - Most common in LANs
+
+- **Fiber-Optic Cable Comparison**
+
+  | Property                    | Multimode            | Single-mode         |
+  |----------------------------|----------------------|---------------------|
+  | Distance                   | ~500 meters          | Up to 100 km        |
+  | Light Source               | LEDs                 | Lasers              |
+  | Used for                   | Campus LANs          | Long-distance WANs  |
+  | Applications               | Short-range          | Telephony, Cable TV |
+
+- **Wireless Misconceptions**
+  - **False**: Wireless is not suited for enterprise — with proper security and configuration, it's widely used.
+  - **False**: Wireless LANs are **half duplex**, meaning only one device can transmit at a time. As more users connect, performance may degrade.
+
+- **Wireless Standards**
+  | Standard  | Use Case                              |
+  |-----------|----------------------------------------|
+  | **Zigbee**    | Low-power IoT/industrial devices       |
+  | **Bluetooth** | Personal Area Networks (1–100 meters)  |
+
+---
+
 ## 💡 Final Word
 
 The physical layer is the unsung hero of networking.  
