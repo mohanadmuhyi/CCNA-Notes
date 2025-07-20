@@ -15,7 +15,7 @@ Explain how the Data Link Layer enables communication across various types of ph
 * Adds addressing and error detection info.
 * Detects errors and discards corrupted frames.
 
-### �\uddna Two Sublayers (IEEE 802 Standards):
+### Two Sublayers (IEEE 802 Standards):
 
 1. **LLC (Logical Link Control):**
 
@@ -117,13 +117,13 @@ Each router hop performs:
 
 > 🔎 CSMA/CA is essential in **wireless** because you can't detect collisions over air like in cables. So devices wait before sending.
 
-### �� Controlled Access
+### Controlled Access
 
 * Each device is assigned a turn (used in legacy systems like Token Ring)
 
 ---
 
-## 6.4 �\uddna Data Link Frame
+## Data Link Frame
 
 ### 📦 Frame = Header + Data + Trailer
 
