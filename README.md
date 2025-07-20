@@ -12,11 +12,11 @@ Each module is structured for clarity, practical insights, and deep understandin
 | Module | Title |
 |--------|-------|
 | ✅ [Module 1](./Semester%201/Module-1.md) | Networking Today |
-| ✅ [Module 2](./Semester-1/Module-2.md) | Basic Switch and End Device Configuration |
-| ✅ [Module 3](./Semester-1/Module-3.md) | Protocols and Models |
-| ✅ [Module 4](./Semester-1/Module-4.md) | Physical Layer |
-| ✅ [Module 5](./Semester-1/Module-5.md) | Number Systems |
-| ✅ [Module 6](./Semester-1/Module-6.md) | Data Link Layer |
+| ✅ [Module 2](./Semester%201/Module-2.md) | Basic Switch and End Device Configuration |
+| ✅ [Module 3](./Semester%201/Module-3.md) | Protocols and Models |
+| ✅ [Module 4](./Semester%201/Module-4.md) | Physical Layer |
+| ✅ [Module 5](./Semester%201/Module-5.md) | Number Systems |
+| ✅ [Module 6](./Semester%201/Module-6.md) | Data Link Layer |
 
 ---
 
