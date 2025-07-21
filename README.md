@@ -17,6 +17,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | ✅ [Module 4](./Semester%201/Module-4.md) | Physical Layer |
 | ✅ [Module 5](./Semester%201/Module-5.md) | Number Systems |
 | ✅ [Module 6](./Semester%201/Module-6.md) | Data Link Layer |
+| ✅ [Module 7](./Semester%201/Module-7.md) | Ethernet Switching |
 
 ---
 
