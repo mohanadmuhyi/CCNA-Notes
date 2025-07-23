@@ -45,7 +45,7 @@ Explore how the network layer enables end-to-end communication, logical addressi
 
 ---
 
-## 8.2 🗚️ IPv4 vs IPv6
+## 8.2 IPv4 vs IPv6
 
 ### ⚠️ IPv4 Limitations
 
