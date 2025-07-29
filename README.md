@@ -20,6 +20,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | ✅ [Module 7](./Semester%201/Module-7.md) | Ethernet Switching |
 | ✅ [Module 8](./Semester%201/Module-8.md) | Network Layer |
 | ✅ [Module 9](./Semester%201/Module-9.md) | Address Resolution |
+| ✅ [Module 10](./Semester%201/Module-10.md) | Basic Router Configuration |
 
 ---
 
