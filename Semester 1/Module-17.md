@@ -232,7 +232,7 @@ Plan and document IP addresses by:
 
 ---
 
-## 🧠 NetAcad Questions
+## 🧠 Additional Notes for NetAcad Questions
 
 ### 📊 Small Network Fundamentals
 
