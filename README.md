@@ -26,7 +26,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | Module 13 | ICMP |
 | Module 14 | Transport Layer |
 | Module 15 | Application Layer |
-| Module 16 | Network Security Fundamentals |
+| [Module 16](./Semester%201/Module-16.md) | Network Security Fundamentals |
 | Module 17 | Build a Small Network |
 
 
