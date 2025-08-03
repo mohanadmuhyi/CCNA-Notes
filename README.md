@@ -21,7 +21,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 8](./Semester%201/Module-8.md) | Network Layer |
 | [Module 9](./Semester%201/Module-9.md) | Address Resolution |
 | [Module 10](./Semester%201/Module-10.md) | Basic Router Configuration |
-| Module 11 | IPv4 Addressing |
+| [Module 11](./Semester%201/Module-11.md) | IPv4 Addressing |
 | Module 12 | IPv6 Addressing |
 | Module 13 | ICMP |
 | Module 14 | Transport Layer |
@@ -45,3 +45,4 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
