@@ -76,8 +76,8 @@ These addresses **cannot be routed** on the public Internet. They're used **insi
 
 ### 📏 Rules
 
-* **Number of Hosts**: 2^n - 2 (n = number of host bits)
-* **Number of Subnets**: 2^s (s = number of borrowed bits)
+* **Number of Hosts**: 2^n - 2 (n = number of host bits or 0s)
+* **Number of Subnets**: 2^s (s = number of borrowed bits or broken 1s)
 * **Maximum Subnet**: /30 (only 2 usable IPs)
 
 ### 🎓 Classful vs Classless
@@ -257,3 +257,4 @@ Given: 192.168.10.0/24
 ## 🏁 Final Words
 
 Mastering IPv4 subnetting builds a strong foundation for advanced networking. Understand the theory, apply the magic number, practice VLSM, and use tools to boost confidence.
+
