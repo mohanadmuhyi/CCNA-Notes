@@ -7,7 +7,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 
 ## 📚 Table of Contents
 
-### 📦 Semester 1
+### 📦 Semester 1: Introduction to Networks
 
 | Module | Title |
 |:------:|-------|
@@ -45,5 +45,6 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
