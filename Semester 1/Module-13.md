@@ -103,17 +103,22 @@ Maps the path from source to destination by incrementing TTL/Hop Limit:
 ---
 
 
+
 ## 🧠 Additional Notes for NetAcad Questions
 
-* ✅ ICMP is used to **test and report errors** in IP communication.
-* ✅ Ping uses **Echo Request and Reply** messages.
-* ✅ Traceroute relies on **TTL (IPv4)** and **Hop Limit (IPv6)** with ICMP **Time Exceeded**.
-* ✅ Common unreachable codes help troubleshoot exact causes.
-* ✅ ICMPv6 introduces **Neighbor Discovery**, RS/RA/NS/NA/DAD.
-* ❗ Firewalls may **block ICMP**, leading to false negatives when pinging.
+### ✅ Common to Both ICMPv4 and ICMPv6
+
+* **Destination or Service Unreachable**
+* **Time Exceeded**
+
+### ✅ ICMPv6-Specific Behavior
+
+* **Router Solicitation (RS)** is sent by hosts to request configuration
+* ICMPv6 provides **autoconfiguration** features via RS and RA messages
 
 ---
 
 ## 🌟 Final Words
 
 ICMP is essential for **connectivity testing**, **path discovery**, and **network troubleshooting**. Whether using **ping** for quick checks or **traceroute** to map your route, understanding ICMP helps keep networks resilient and easier to manage.
+
