@@ -1,6 +1,7 @@
-## 🧠 CCNA Module 12: IPv6 Addressing
+# 📘 CCNA Module 12: IPv6 Addressing
 
-**Objective**: Implement an IPv6 addressing scheme.
+## 🧠 Objective
+Implement an IPv6 addressing scheme.
 
 ---
 
@@ -263,4 +264,5 @@ IPv6 isn’t just about more addresses — it’s a complete rethinking of how m
 As you study, focus on **address structure**, **dynamic assignment methods**, and **command-line configuration**. These are core skills every network professional must master in the IPv6 world.
 
 > "The best way to predict the future is to build it." – IPv6 is the future. Let's build it right.
+
 
