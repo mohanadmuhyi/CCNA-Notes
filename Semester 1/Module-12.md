@@ -80,7 +80,7 @@ x:x:x:x:x:x:x:x
 #### 📍 3 Categories
 
 1. **Unicast** – One-to-one
-2. **Multicast** – One-to-many
+2. **Multicast** – One-to-many (FF00::/8)
 3. **Anycast** – One-to-nearest (delivered to the closest)
 
 > ❌ IPv6 has **no broadcast**. Use **multicast** instead.
@@ -264,5 +264,6 @@ IPv6 isn’t just about more addresses — it’s a complete rethinking of how m
 As you study, focus on **address structure**, **dynamic assignment methods**, and **command-line configuration**. These are core skills every network professional must master in the IPv6 world.
 
 > "The best way to predict the future is to build it." – IPv6 is the future. Let's build it right.
+
 
 
