@@ -176,9 +176,10 @@ Compare the operations of transport layer protocols (TCP & UDP) in supporting en
 * Sequence numbers guarantee ordering and allow retransmission of missing data.
 * **Selective Acknowledgment (SACK)** lets the receiver inform the sender about non-contiguous blocks it received, so the sender retransmits only missing pieces.
 
-### 🔍 **Flow Control (Window Size) — clarified**
+### 🔍 **Flow Control (Window Size)**
 
 * **Window Size** is the number of **bytes the receiver is willing to accept** beyond the last byte acknowledged. It controls how much unacknowledged data the sender may have in flight.
+> **Note:** The process of the destination sending acknowledgments as it processes bytes received and the continual adjustment of the source send window is known as **sliding windows**.
 * **Example:** If the last ACK from the receiver indicates it has received up to byte 10,000 and the receiver advertises a window size of 5,000 bytes, the sender may send bytes **10,001 through 15,000** without receiving another ACK. Once the sender reaches that limit it must wait for more ACKs (which may advertise a larger window) before sending more.
 
 ### 🔢 **MSS / MTU / Frame sizes**
@@ -266,5 +267,6 @@ Session Termination (4-Way):
 ---
 
 ## 🔚 **Final Word**
+
 
 Mastering the Transport Layer is about more than memorizing ports or handshake steps — it’s about understanding *why* TCP and UDP behave the way they do, and how their mechanisms (like flow control, reliability, and congestion handling) ensure smooth end-to-end communication. With these concepts clear, troubleshooting and optimizing networks becomes second nature.
