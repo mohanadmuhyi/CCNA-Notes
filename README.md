@@ -29,6 +29,12 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 16](./Semester%201/Module-16.md) | Network Security Fundamentals |
 | [Module 17](./Semester%201/Module-17.md) | Build a Small Network |
 
+### 🔀 Semester 2: Switching, Routing, and Wireless Essentials
+
+| Module | Title |
+|:------:|-------|
+| [Module 1](./Semester%202/Module-1.md) | Basic Device Configuration |
+| [Module 2](./Semester%202/Module-2.md) | Switching Concepts |
 
 
 ---
@@ -45,6 +51,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
