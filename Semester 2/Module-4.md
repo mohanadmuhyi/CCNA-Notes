@@ -129,7 +129,6 @@ show interfaces trunk
 
 ### ⚙️ Steps to Configure
 
-**Combined Configuration Steps (with commands and notes):**
 
 1. **Make Port Routable (Optional)**
 
@@ -271,3 +270,4 @@ Switch(config-if)# no shutdown
 ## ✅ Final Words
 
 This module provided a complete understanding of **Inter-VLAN Routing**, covering Router-on-a-Stick, Layer 3 Switch routing with SVIs, configuration commands, troubleshooting methods, and key verification commands. These skills ensure smooth communication between VLANs and prepare you to diagnose and fix common issues effectively.
+
