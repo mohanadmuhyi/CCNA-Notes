@@ -36,6 +36,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 |:------:|-------|
 | [Module 1](./Semester%202/Module-1.md) | Basic Device Configuration |
 | [Module 2](./Semester%202/Module-2.md) | Switching Concepts |
+| [Module 3](./Semester%202/Module-3.md) | VLANs |
 
 
 ---
@@ -52,6 +53,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
