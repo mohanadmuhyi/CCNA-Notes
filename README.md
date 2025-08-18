@@ -38,7 +38,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 2](./Semester%202/Module-2.md) | Switching Concepts |
 | [Module 3](./Semester%202/Module-3.md) | VLANs |
 | [Module 4](./Semester%202/Module-4.md) | Inter-VLAN Routing |
-| Module 5 | STP Concepts |
+| [Module 5](./Semester%202/Module-5.md) | STP Concepts |
 | Module 6 | EtherChannel |
 | [Module 7](./Semester%202/Module-7.md) | DHCPv4 |
 | Module 8 | SLAAC and DHCPv6 |
@@ -66,6 +66,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
