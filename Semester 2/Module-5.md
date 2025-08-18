@@ -3,7 +3,7 @@
 ## 🌳 Module 5: STP Concepts
 
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 The objective of this module is to explain why **STP (Spanning Tree Protocol)** is needed in redundant Layer 2 networks. It also aims to help you understand how **STP operations** work, including root bridge election, port roles, timers, and port states. Finally, you will learn about the **evolution of STP**, including PVST+, RSTP, Rapid PVST+, and MSTP.
 
@@ -295,3 +295,4 @@ S1(config-if)# spanning-tree vlan <id> port-priority <value>
 ## 🏁 Final Word
 
 STP is fundamental for preventing loops and keeping Ethernet LANs stable when redundancy is introduced. It builds a loop-free tree by electing a root bridge and assigning port roles. RSTP improved convergence, while Cisco’s PVST+, Rapid PVST+, and MSTP provided scalability and VLAN support. Features like PortFast and BPDU Guard further secure access ports. Even though Layer 3 routing is often used in modern designs, STP knowledge remains essential for troubleshooting and designing robust Layer 2 networks.
+
