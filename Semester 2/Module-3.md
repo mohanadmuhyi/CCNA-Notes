@@ -3,7 +3,7 @@
 ## 📘 Module 3: VLANs
 
 
-### 🎯 Module Objectives
+### 🎯 Objectives
 
 This module explains the purpose of VLANs in a switched network, describes how a switch forwards frames based on VLAN configuration in a multi-switch environment, shows how to configure a switch port to be assigned to a VLAN, demonstrates how to configure a trunk port on a switch, and teaches how to configure and verify Dynamic Trunking Protocol (DTP).
 
@@ -332,3 +332,4 @@ show dtp interface
 ## 🔚 Final Word
 
 VLANs are essential for network segmentation, security, and performance. Trunking and DTP allow VLANs to span multiple switches, but best practice is to use **manual configurations** for consistency and security. Remember: **PC ↔ Switch = Access**, **Switch ↔ Switch = Trunk**, and always plan VLAN-to-IP subnet mapping carefully.
+
