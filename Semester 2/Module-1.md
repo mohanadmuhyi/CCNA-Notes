@@ -2,7 +2,7 @@
 
 ## 📘 Module 1: Basic Device Configuration
 
-### 🎯 **Module Objective**
+### 🎯 **Objectives**
 
 Configure switches and routers using security best practices.
 
