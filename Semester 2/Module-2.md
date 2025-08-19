@@ -4,7 +4,7 @@
 
 
 
-### 🎯 Module Objectives
+### 🎯 Objectives
 
 Explain how **Layer 2 switches forward data**.
 
@@ -152,3 +152,4 @@ Switches help reduce congestion using:
 ## 🔚 Final Word
 
 Switches are powerful tools that increase network efficiency by eliminating collisions, reducing congestion, and managing frames intelligently. They isolate collision domains per port, but broadcast domains remain unless a router is used. By understanding **forwarding methods**, **MAC address learning**, and **buffering strategies**, you can design and troubleshoot switched networks with confidence.
+
