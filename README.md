@@ -41,7 +41,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 5](./Semester%202/Module-5.md) | STP Concepts |
 | [Module 6](./Semester%202/Module-6.md) | EtherChannel |
 | [Module 7](./Semester%202/Module-7.md) | DHCPv4 |
-| Module 8 | SLAAC and DHCPv6 |
+| [Module 8](./Semester%202/Module-8.md) | SLAAC and DHCPv6 |
 | Module 9 | FHRP Concepts |
 | Module 10 | LAN Security Concepts |
 | Module 11 | Switch Security Configuration |
@@ -66,6 +66,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
