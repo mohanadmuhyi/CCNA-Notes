@@ -178,7 +178,7 @@ Parameters: SSID, password, 802.11 mode, security (WEP/WPA/WPA2), channel.
 * Too many devices → interference, poor quality.
 * **Solutions**: DSSS, FHSS, OFDM.
 
-### 📊 Techniques (More Details)
+### 📊 Techniques
 
 * **DSSS (Direct Sequence Spread Spectrum)** – Spreads data across wider frequency band to reduce interference. Used by 802.11b.
 * **FHSS (Frequency Hopping Spread Spectrum)** – Rapidly hops frequencies in a pattern known by sender & receiver. Early 802.11 standard.
@@ -189,7 +189,7 @@ Parameters: SSID, password, 802.11 mode, security (WEP/WPA/WPA2), channel.
 * **2.4 GHz**: 14 channels (depending on region). Use **1, 6, 11** (non-overlapping).
 * **5 GHz**: Offers **24+ channels**, separated by 20 MHz. Non-overlapping examples: **36, 40, 44, 48** and others depending on region. More channels → less interference than 2.4 GHz.
 
-### 🏗️ WLAN Deployment Planning (More Details)
+### 🏗️ WLAN Deployment Planning
 
 * Consider:
 
@@ -321,3 +321,4 @@ Parameters: SSID, password, 802.11 mode, security (WEP/WPA/WPA2), channel.
 ## 🏁 Final Word
 
 This module showed how WLANs work using radio frequencies and standards like 802.11. We learned the difference between WPAN, WLAN, WMAN, and WWAN, as well as the roles of IEEE, ITU-R, and the Wi-Fi Alliance. We explored WLAN components such as APs, routers, antennas, and controllers, and saw how clients connect, roam, and use frames with multiple addresses. CAPWAP enables centralized control with split roles between APs and WLCs. We also studied channel planning, modulation techniques, and how to avoid interference. Finally, we covered WLAN threats such as rogue APs and MITM attacks, and the importance of securing networks with modern authentication and encryption methods.
+
