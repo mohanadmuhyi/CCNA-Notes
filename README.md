@@ -49,7 +49,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 13](./Semester%202/Module-13.md) | WLAN Configuration |
 | [Module 14](./Semester%202/Module-14.md) | Routing Concepts |
 | [Module 15](./Semester%202/Module-15.md) | IP Static Routing |
-| Module 16 | Troubleshoot Static and Default Routes |
+| [Module 16](./Semester%202/Module-16.md) | Troubleshoot Static and Default Routes |
 
 
 ---
@@ -66,6 +66,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
