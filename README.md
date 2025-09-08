@@ -52,6 +52,26 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 16](./Semester%202/Module-16.md) | Troubleshoot Static and Default Routes |
 
 
+### 🌐 Semester 3: Enterprise Networking, Security, and Automation
+
+| Module | Title |
+|:------:|-------|
+| Module 1 | Single-Area OSPFv2 Concepts |
+| Module 2 | Single-Area OSPFv2 Configuration |
+| Module 3 | Network Security Concepts |
+| Module 4 | ACL Concepts |
+| Module 5 | ACLs for IPv4 Configuration |
+| Module 6 | NAT for IPv4 |
+| Module 7 | WAN Concepts |
+| Module 8 | VPN and IPsec Concepts |
+| Module 9 | QoS Concepts |
+| Module 10 | Network Management |
+| Module 11 | Network Design |
+| Module 12 | Network Troubleshooting |
+| Module 13 | Network Virtualization |
+| Module 14 | Network Automation |
+
+
 ---
 
 
@@ -66,6 +86,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
