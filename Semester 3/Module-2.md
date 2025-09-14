@@ -66,7 +66,7 @@ R1# clear ip ospf process
 Router(config-router)# network network-address wildcard-mask area area-id
 ```
 
-* You put the directly connected networks to the router
+* You put the directly connected networks to the router (to share with others)
 * **Wildcard mask** = Inverse of subnet mask (255.255.255.255 – subnet mask).
 * Can also use **0.0.0.0** to specify exact interface.
 
@@ -284,3 +284,4 @@ show ip ospf interface brief  # Quick summary
 ## 🏁 Final Word
 
 Mastering single-area OSPFv2 ensures you can build scalable, efficient, and secure internal routing domains. By understanding router IDs, interface configurations, DR/BDR elections, cost metrics, and default route propagation, you gain the foundation to troubleshoot and design reliable OSPF networks.
+
