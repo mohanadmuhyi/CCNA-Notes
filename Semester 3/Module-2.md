@@ -66,7 +66,7 @@ R1# clear ip ospf process
 Router(config-router)# network network-address wildcard-mask area area-id
 ```
 
-* You put the directly connected networks to the router (to share with others)
+* You put the directly connected networks to the router (to share with others).
 * **Wildcard mask** = Inverse of subnet mask (255.255.255.255 – subnet mask).
 * Can also use **0.0.0.0** to specify exact interface.
 
@@ -81,6 +81,7 @@ R1(config-router)# network 10.1.1.5 0.0.0.0 area 0
 
 * Instead of `network` command, you can enable OSPF **directly under an interface**.
 * This is useful when you want **precise control** (e.g., advertise only one interface, not an entire subnet).
+* You tell him share the network connected to this interface with others instead of writing the network by yourself.
 
 ```bash
 Router(config-if)# ip ospf process-id area area-id
@@ -284,4 +285,3 @@ show ip ospf interface brief  # Quick summary
 ## 🏁 Final Word
 
 Mastering single-area OSPFv2 ensures you can build scalable, efficient, and secure internal routing domains. By understanding router IDs, interface configurations, DR/BDR elections, cost metrics, and default route propagation, you gain the foundation to troubleshoot and design reliable OSPF networks.
-
