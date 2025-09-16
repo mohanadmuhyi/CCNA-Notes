@@ -63,7 +63,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 5](./Semester%203/Module-5.md) | ACLs for IPv4 Configuration |
 | [Module 6](./Semester%203/Module-6.md) | NAT for IPv4 |
 | [Module 7](./Semester%203/Module-7.md) | WAN Concepts |
-| Module 8 | VPN and IPsec Concepts |
+| [Module 8](./Semester%203/Module-8.md) | VPN and IPsec Concepts |
 | Module 9 | QoS Concepts |
 | Module 10 | Network Management |
 | Module 11 | Network Design |
@@ -86,6 +86,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
