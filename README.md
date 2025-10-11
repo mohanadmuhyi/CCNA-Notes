@@ -65,7 +65,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 7](./Semester%203/Module-7.md) | WAN Concepts |
 | [Module 8](./Semester%203/Module-8.md) | VPN and IPsec Concepts |
 | [Module 9](./Semester%203/Module-9.md) | QoS Concepts |
-| Module 10 | Network Management |
+| [Module 10](./Semester%203/Module-10.md) | Network Management |
 | Module 11 | Network Design |
 | Module 12 | Network Troubleshooting |
 | Module 13 | Network Virtualization |
@@ -86,6 +86,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
