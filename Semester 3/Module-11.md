@@ -2,7 +2,7 @@
 
 ## 🌍 Module 11: Network Design
 
-### 🎯 Objective
+### 🎯 Objectives
 
 Explain the characteristics of scalable network architectures.
 
@@ -325,3 +325,4 @@ Routers select alternate paths if a link goes down and serve as the **default ga
 ## ✨ **Final Word**
 
 Network design must be **hierarchical, modular, scalable, and resilient** to ensure growth, reliability, and performance across all layers of modern enterprise networks. 🌍💡
+
