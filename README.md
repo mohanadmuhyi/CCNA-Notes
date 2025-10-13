@@ -67,7 +67,7 @@ Each module is structured for clarity, practical insights, and deep understandin
 | [Module 9](./Semester%203/Module-9.md) | QoS Concepts |
 | [Module 10](./Semester%203/Module-10.md) | Network Management |
 | [Module 11](./Semester%203/Module-11.md) | Network Design |
-| Module 12 | Network Troubleshooting |
+| [Module 12](./Semester%203/Module-12.md) | Network Troubleshooting |
 | Module 13 | Network Virtualization |
 | Module 14 | Network Automation |
 
@@ -86,6 +86,7 @@ Stay tuned for more modules as I progress through the course!
 © 2025 Mohannad Mohie  
 📧 mohanadmuhyi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohanadmuhyi)  
+
 
 
 
