@@ -2,7 +2,7 @@
 ## 🌐 Module 14: Network Automation
 
 
-### 🎯 Module Objective
+### 🎯 Objectives
 
 This module focuses on explaining the purpose and characteristics of **network virtualization** and **automation** in modern networks. It introduces the concepts of automation, data formats, APIs, REST and RESTful APIs, configuration management tools, and Intent-Based Networking (IBN) with Cisco DNA Center. By the end of this module, you will understand how automation and programmability simplify network management, improve efficiency, and enable intelligent network behavior through Cisco’s DNA Center.
 
@@ -319,4 +319,5 @@ Acts as the **central controller** and **analytics hub** for the enterprise netw
 
 ## ✅ Final Word
 Network automation represents the future of scalable and secure networking. By mastering automation tools, data formats, APIs, and Cisco DNA Center technologies, engineers can design, deploy, and maintain intelligent networks that adapt dynamically to business needs.
+
 
